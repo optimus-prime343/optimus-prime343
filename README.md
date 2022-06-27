@@ -6,4 +6,4 @@
 - ✨ I'm looking to collaborate with other developers
 
 ### Connect with me:
-![Linkedin](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)
+[<img alt="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="60px" />](https://www.linkedin.com/in/sachin-aryal-74a228224/)
