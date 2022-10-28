@@ -2,7 +2,7 @@
 
 ## I'm a Web and Mobile Developer
 - 👨‍💻 I'm currently working on a [React Movie App](https://movies-kappa-gray.vercel.app/)
-- 📗 I'm currently learning Flutter 
+- 📗 I'm currently learning React Native animations 
 - ✨ I'm looking to collaborate with other developers
 
 ### 🌐 Connect with me:
